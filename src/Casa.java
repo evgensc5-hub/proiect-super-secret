@@ -4,6 +4,7 @@ public class Casa {
         System.out.println("Dormitor");
         System.out.println("Living");
         System.out.println("Terasa");
+        System.out.println("Baie");
 
     }
 }
