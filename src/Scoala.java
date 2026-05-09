@@ -5,5 +5,6 @@ public class Scoala {
         System.out.println("Clasa3");
         System.out.println("Clasa4");
         System.out.println("Clasa5");
+        System.out.println("Clasa7");
     }
 }
