@@ -7,5 +7,6 @@ public class Scoala {
         System.out.println("Clasa5");
         System.out.println("Clasa6");
         System.out.println("Clasa7");
+        System.out.println("Magiun de mere");
     }
 }
