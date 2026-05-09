@@ -7,5 +7,10 @@ public class Scoala {
         System.out.println("Clasa5");
         System.out.println("Clasa6");
         System.out.println("Clasa7");
+        System.out.println("Clasa8");
+        System.out.println("Clasa9");
+        System.out.println("Clasa10");
+        System.out.println("Clasa11");
+        System.out.println("Clasa12");
     }
 }
