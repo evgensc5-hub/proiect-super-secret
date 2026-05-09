@@ -6,6 +6,7 @@ public class Casa {
         System.out.println("Terasa");
         System.out.println("Baie");
         System.out.println("Debara");
+        System.out.println("Debara2");
 
     }
 }
